@@ -80,7 +80,7 @@ public class ArticleDao {
   }
 
   public List<Article> findAll(int page, int pageSize) {
-    String sql = "SELECT * FROM articles WHERE is_deleted = false ORDER BY update_at DESC LIMIT ? OFFSET ?";
+    String sql = "SELECT  * FROM articles AS a JOIN (SELECT id FROM articles WHERE is_deleted = false ORDER BY update_at LIMIT ? OFFSET ?) AS t ON a.id = t.id;";
     List<Article> articles = new ArrayList<>();
     try (Connection conn = databaseConnector.getConnection();
         PreparedStatement pstmt = conn.prepareStatement(sql)) {
