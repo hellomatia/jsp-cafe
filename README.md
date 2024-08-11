@@ -65,7 +65,13 @@ JOIN (
 이를 통해 쿼리 실행 시간을 **80%** 단축하는 놀라운 성능 개선을 달성했습니다!
 
 ## 테크 스펙
-- [JSP-cafe-step1](https://docs.google.com/document/d/1srHMGZ2ZS4elE8HGII7MhIsLwVNmHf67cRJu03A70R0/edit?usp=sharing)
+- [JSP-cafe-step1](https://docs.google.com/document/d/14rgIsnvI6VV2fuSGspnGgycXpNN7gq4a5t5X9LOUdt0/edit?usp=sharing)
+- [JSP-cafe-step2](https://docs.google.com/document/d/1dTwFNlb2jsj29X9_dxvy80WbCN7RyrllndpA_C7nRiM/edit?usp=sharing)
+- [JSP-cafe-step3](https://docs.google.com/document/d/1kP-xtYlmY5_-NAlQetA6UCAgCyhRBrLWRV44c95FSO8/edit?usp=sharing)
+- [JSP-cafe-step4](https://docs.google.com/document/d/1AEkIEJgDR2HVu-KSn70rsnIZ0zV3uSBClAqRBniJmSc/edit?usp=sharing)
+- [JSP-cafe-step5](https://docs.google.com/document/d/1ziChxUcKd02mxKEp9Wf6fbfY0ACdLGju9I9ueKUv2oE/edit?usp=sharing)
+- [JSP-cafe-step5,6](https://docs.google.com/document/d/1NGWmaokUmJAQIE22BLNxsbnaxJJlt3ouv221Db5GvOk/edit?usp=sharing)
+- [JSP-cafe-step7](https://docs.google.com/document/d/1ntrtdQDNqJCaGG0sBf2wAOlKfskOaq1towM7ntXr4aY/edit?usp=sharing)
 
 ## 🎓 프로젝트 회고
 JSP-CAFE 프로젝트를 통해 다음과 같은 귀중한 경험을 쌓을 수 있었습니다:
